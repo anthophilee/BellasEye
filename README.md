@@ -1,0 +1,2 @@
+# BellasEye
+BellasEye:-- An #Automated_Network_Penetration and #vulnerability_Analysis Tool Written In #Bash.  A fun and easy program is written on #Bash to automate and save time during vulnerability analysis and penetration testing. It automates various tools such as #NMAP, #Gobuster, #theHarvester, etc. It uses a custom-designed Vulnerability Lookup which parses major databases like #ExploitDB, #National_Vulnerability_Database, and #VulDB (requires an #API key). It saves all the outputs to separate files for easy use.  https://github.com/necromorph98/BellasEye
